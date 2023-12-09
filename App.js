@@ -11,7 +11,6 @@ const App = () => { // App - функция, которая возвращает
   <div className = "app-wrapper">
     <Header />
     <Navbar />
-    <Profile />
   </div>
   );
 }
